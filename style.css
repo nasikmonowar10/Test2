@@ -1,0 +1,36 @@
+
+h1.goal{
+    color: darkblue;
+    text-align:center;
+}
+h1.gul{
+    color:green;
+    text-align:center;
+}
+#emni{
+    color: indigo;
+    text-align:center;
+}
+h1.Sauda{
+    color: indigo;
+    text-align:left;
+}
+
+.Goal{
+   border:5px solid blueviolet;
+   border-radius: 30px; 
+   margin: 10px 5px;
+   height: 180px;
+   width: 30%;
+   background-color: brown;
+   color: coral;
+   padding: 10px 10px;
+   float: left;
+       
+ }
+.kukur{
+    background-color: rgb(72, 32, 218);
+    color: rgb(47, 255, 220);
+}
+
+         
